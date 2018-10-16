@@ -4,4 +4,8 @@ Implementation of conversation
 
 > 2018年10月15日形成认为的实施方案
 
+### Two propositions
+
 > 2018年10月16日中午在11楼形成决议
+
+### Self constraint imposed by environment
