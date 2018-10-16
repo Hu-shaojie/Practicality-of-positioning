@@ -12,11 +12,15 @@
 
 >2.编程能力的刻意训练
 
-程序编写的学习是[两个概念](https://github.com/Hu-shaojie/Practicality-of-positioning/blob/master/Two%20propositions.md)落实中
+**程序编写学习**是[两个概念](https://github.com/Hu-shaojie/Practicality-of-positioning/blob/master/Two%20propositions.md)落
+
+实中自我制订的重要目标，为了落实该计划、活在未来、环境倒逼下实现第一生产力，完成该学习。
 
 所制订的
 
->3.专业类、英语
+>3.专业系统的建构与英语的学习
+
+专业系统的建构在学校沃土中可以完成最大程度生长，通过跨专业实现的平台转换成果必须不断巩固，既是“先天缺钙”的弥补，也是后天成长的本分。
 
 
 
